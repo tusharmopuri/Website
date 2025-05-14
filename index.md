@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Tushar Mopuri (hello)
+title: Tushar Mopuri
 permalink: /
 ---
 
-## Introduction
+## Introduction (hello)
 
 #### About me.
 I am in my second-year of a PhD in Computer and Information Science at the University of Pennsylvania, where I am excellently advised by Pratyush Mishra. Before this, I did a BS (Research) at the Indian Institute of Science (IISc), where I majored in mathematics.
