@@ -37,9 +37,9 @@ This summer I will be in Berkeley to attend the workshops at the program on cryp
 #### Research experiences.
 Below is a list of my other experiences doing research, and the people I have been fortunate to interact with during them.
 
-* Summer 2024 - Research visit to NYU, where I worked with Benedikt Bunz.
-* Fall 2022 - Research visit to Aarhus University, where I mostly worked with Claudio Orlandi and Peter Scholl.
-* Spring 2022 - Research Intern at Microsoft Research India (MSRI), where I mostly worked with Chaya Ganesh and Satya Lokam.
+* Summer 2024 - Visited NYU, where I worked with Benedikt Bunz.
+* Fall 2022 - Visited Aarhus University, where I mostly worked with Claudio Orlandi and Peter Scholl.
+* Spring 2022 - Interned at Microsoft Research India (MSRI), where I mostly worked with Chaya Ganesh and Satya Lokam.
 
 #### TAing and subreviewing.
 I was a TA for CIS 5560 (Cryptography) at Penn in Spring ’24 and Spring ’25. Also, I subreviewed for Eurocrypt 2025 and Crypto 2025.
