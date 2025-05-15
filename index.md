@@ -14,7 +14,7 @@ My research interests (and experiences) lie in Cryptography, with a focus on Suc
 #### Summer 2025.
 This summer I will be in Berkeley to attend the workshops at the program on cryptography (hosted by the Simons Institute). Please feel free to email me if you are around and want to chat/ collaborate.
 
-## Publications:
+## Publications
 
 ### Preprints
 
