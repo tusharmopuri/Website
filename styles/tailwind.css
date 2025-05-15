@@ -1583,9 +1583,9 @@ p {
   }
 }
 
-@media (min-width: 1024px) {
+@media (max-width: 2000px) {
   .lg\:w-1\/2 {
-    width: 40%;
+    width: 45%;
   }
 
   .lg\:px-8 {
