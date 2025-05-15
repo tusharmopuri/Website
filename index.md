@@ -6,7 +6,8 @@ permalink: /
 
 ## Introduction
 
-I am a second-year PhD student at the University of Pennsylvania, where I am excellently advised by Pratyush Mishra. Before this, I was a visitor at the amazing Crypto group at Aarhus University, where I initially worked with Claudio Orlandi and later on also with Peter Scholl. Even before that, I obtained a BS (Research) at the Indian Institute of Science, where I majored in mathematics and did research with Chaya Ganesh.
+I am a second-year PhD student at the University of Pennsylvania, where I am excellently advised by Pratyush Mishra. 
+Before this, I was a visitor at the amazing Crypto group at Aarhus University, where I initially worked with Claudio Orlandi and later on also with Peter Scholl. Even before that, I obtained a BS (Research) at the Indian Institute of Science, where I majored in mathematics and did research with Chaya Ganesh.
 
 #### Research interests.
 My research interests (and experiences) lie in Cryptography, with a focus on Succinct Non-interactive ARguments of Knowledge (SNARKs). I would, however, be very excited about an opportunity to branch out.
