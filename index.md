@@ -57,7 +57,6 @@ Below is a list of my other experiences doing research, and the people I have be
 I was a TA for CIS 5560 (Cryptography) at Penn in Spring ’24 and Spring ’25. Also, I subreviewed for Eurocrypt 2025 and Crypto 2025.
 
 
-## Acknowledgements {.unnumbered}
-
-Paul
+#### Acknowledgement.
+This website would not have been possible without the help of [Paul Biberstein](https://paulbiberstein.me/).
 
