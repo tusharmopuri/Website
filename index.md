@@ -24,7 +24,7 @@ This summer I will be in Berkeley to attend the workshops at the program on cryp
 Anubhav Baweja, [Pratyush Mishra](https://pratyushmishra.com/), _Tushar Mopuri_, [Matan Shtepel](https://matanshtepel.com/)  
 ([ePrint](https://eprint.iacr.org/2025/737))
 
-* **<span class="[font-variant:small-caps]">Scribe</span>: Low-memory SNARKs via Read-Write Streaming**\
+* **<span class="[font-variant-caps:small-caps]">Scribe</span>: Low-memory SNARKs via Read-Write Streaming**\
 Anubhav Baweja, [Pratyush Mishra](https://pratyushmishra.com/), _Tushar Mopuri_, [Karan Newatia](https://karannewatia.github.io/), Steve Wang\
 ([ePrint](https://eprint.iacr.org/2024/1970))
 
@@ -35,7 +35,7 @@ Anubhav Baweja, [Pratyush Mishra](https://pratyushmishra.com/), _Tushar Mopuri
 **CRYPTO 2025**\
 ([ePrint](https://eprint.iacr.org/2025/129))
 
-* **<span class="[font-variant:small-caps]">Hekaton</span>: Horizontally-Scalable zkSNARKs via Proof Aggregation**  
+* **<span class="[font-variant-caps:small-caps]">Hekaton</span>: Horizontally-Scalable zkSNARKs via Proof Aggregation**  
 [Michael Rosenberg](https://mrosenberg.pub/), _Tushar Mopuri_, [Hossein Hafezi](https://hosseinhafezi.com/), [Ian Miers](https://www.cs.umd.edu/people/imiers), [Pratyush Mishra](https://pratyushmishra.com/)\  
 **ACM CCS 2024**\  
 ([ePrint](https://eprint.iacr.org/2024/1208))
