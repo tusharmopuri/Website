@@ -41,17 +41,16 @@
     }
   }
 
+  /* Links in #554933 with faint underline */
   .prose a {
-    color: #1d4ed8 !important;              /* slightly bluer */
+    color: #776d5c !important;                        /* your chosen muted taupe */
     text-decoration: underline;
-    text-decoration-color: rgba(31,41,55,0.08) !important;
+    text-decoration-color: rgba(119, 109, 92, 0.2) !important;
     transition: text-decoration-color 0.2s ease;
   }
   .prose a:hover {
-    text-decoration-color: rgba(31,41,55,0.5) !important;  /* darker underline */
+    text-decoration-color: rgba(119, 109, 92, 0.8) !important;
   }
-  
-  /* ultra-light underline at rest */
 
 
   /* tighten space under #### (h4) */
@@ -74,3 +73,5 @@
   .tight-paras p + p {
     margin-top: 0.1em;   /* only the second paragraph in that block */
   }
+  
+  
