@@ -28,7 +28,7 @@ This summer I will be in Berkeley to attend the workshops at the program on cryp
 
 * **DewTwo: a transparent PCS with quasi-linear prover, logarithmic verifier and 4.5KB proofs from falsifiable assumptions**\
 [Anubhav Baweja](https://www.linkedin.com/in/abaweja64), _Pratyush Mishra_, [Tushar Mopuri](https://in.linkedin.com/in/tushar-mopuri-41a81017b), [Karan Newatia](https://karannewatia.github.io/), Steve Wang\
-[**CRYPTO 2025**](https://crypto.iacr.org/2025)\
+**CRYPTO 2025**\
 ([ePrint](https://eprint.iacr.org/2024/1970))
 
 * **Scribe: Low-memory SNARKs via Read-Write Streaming**\
