@@ -58,4 +58,10 @@
     hyphens: none;       /* disable auto-hyphenation */
     text-align: left;    /* if you’d prefer ragged-right */
   }
+
+  .textsc {
+    font-variant-caps: small-caps;
+    font-feature-settings: "smcp" 1;
+    font-weight: bold;       /* ← add this */
+  }
   
