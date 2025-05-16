@@ -2,6 +2,7 @@
 .prose p {
     margin: 0 0 0.25em;
     text-indent: 1.5em;
+    line-height: 1.4;  /* try 1.4 instead of 1.5 */
   }
   .prose p:first-of-type {
     text-indent: 0;
