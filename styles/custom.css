@@ -51,4 +51,11 @@
 .prose h4 {
     margin-bottom: 0.5em !important;
   }
+
+  body {
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+    line-height: normal; /* or whatever you had before */
+    hyphens: none;       /* disable auto-hyphenation */
+    text-align: left;    /* if you’d prefer ragged-right */
+  }
   
