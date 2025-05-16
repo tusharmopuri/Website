@@ -1,0 +1,78 @@
+/* 1. PDF-style paragraphs */
+.prose {
+    line-height: 1.25;
+  }
+
+.prose p {
+    margin-bottom: 0.03em !important;
+    text-indent: 1.5em;
+    word-spacing: -0.025em !important;
+  }
+
+  .prose p:first-of-type {
+    text-indent: 0;
+  }
+  
+  /* 2. Subsection headings (“2.1”, “2.2”) */
+  .prose h3 {
+    margin-bottom: 1em !important;
+  }
+  
+  /* 2a. Make markers (bullets) use the same color as your text */
+.prose ul > li::marker {
+    /* currentColor = the li’s computed text color */
+    color: currentColor;
+  }
+  
+  /* 2b. Add a little more breathing room between each bullet */
+  .prose ul > li {
+    /* tweak these to taste; 0.25em is roughly half the spacing between heading & first item */
+    margin-top: 0.5em;
+    margin-bottom: 0.25em;
+  }
+  
+  /* 4. 45% column capped at A4 */
+  @media (min-width: 1024px) {
+    .prose {
+      width: 100% !important;         /* or bump to 70%, 75%… */
+      max-width: 1500px !important;    /* remove the 65ch cap */
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+
+  /* Links in #554933 with faint underline */
+  .prose a {
+    color: #776d5c !important;                        /* your chosen muted taupe */
+    text-decoration: underline;
+    text-decoration-color: rgba(119, 109, 92, 0.2) !important;
+    transition: text-decoration-color 0.2s ease;
+  }
+  .prose a:hover {
+    text-decoration-color: rgba(119, 109, 92, 0.8) !important;
+  }
+
+
+  /* tighten space under #### (h4) */
+  .prose h4 {
+    margin-top: 1.0em !important;
+    margin-bottom: -0.1em !important;
+    margin-right: 0.35em !important;
+  }
+
+  .textsc {
+    font-variant-caps: small-caps; /* use real glyphs when available */
+    letter-spacing: 0.02em;        /* optional optical tweak */
+  }
+
+  .prose h2.no-number::before {
+    content: none !important;
+  }
+
+  .tight-paras p + p {
+    margin-top: 0.1em;   /* only the second paragraph in that block */
+  }
+
+  .unnumbered::before { content:none !important; counter-increment:none; }
+
+  
