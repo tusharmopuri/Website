@@ -29,34 +29,27 @@
   /* 4. 45% column capped at A4 */
   @media (min-width: 1024px) {
     .prose {
-      width: 80% !important;
-      /* max-width: 21000mm; */
-      margin-left: auto;
-      margin-right: auto;
+      width: 60% !important;         /* or bump to 70%, 75%… */
+      max-width: none !important;    /* remove the 65ch cap */
+      margin: 0 auto;
     }
   }
   
-  .prose a {
+  /* ultra-light underline at rest */
+.prose a {
     text-decoration: underline;
-    /* very faint at rest */
-    text-decoration-color: rgba(31,41,55,0.1);
+    text-decoration-color: rgba(31,41,55,0.08) !important;
     transition: text-decoration-color 0.2s ease;
   }
+  
+  /* soften hover: match text color but not 100% opaque */
   .prose a:hover {
-    /* match the link text color exactly */
-    text-decoration-color: currentColor;
+    text-decoration-color: rgba(31,41,55,0.7) !important;
   }
 
   /* tighten space under #### (h4) */
-.prose h4 {
-    margin-bottom: 0.5em !important;
-  }
-
-  body {
-    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
-    line-height: normal; /* or whatever you had before */
-    hyphens: none;       /* disable auto-hyphenation */
-    text-align: left;    /* if you’d prefer ragged-right */
+  .prose h4 {
+    margin-bottom: 0.25em !important;
   }
 
   .textsc {
