@@ -144,7 +144,7 @@ p {
 
 /* 3. A few extra typographic refinements to match your PDF */
 body {
-  /* font-family: 'Latin Modern', serif; use your PDF’s main font  */
+  font-family: 'Latin Modern', serif; /* use your PDF’s main font  */
   line-height: 1.5;                   /* a bit more breathing room */
   text-align: justify;                /* full-width text blocks */
   hyphens: auto;                      /* enable hyphenation */
