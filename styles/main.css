@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
+/* @font-face {
   font-family: 'Latin Modern';
   font-style: normal;
   font-weight: normal;
@@ -40,7 +40,7 @@
   src: url('./fonts/LM-bold-italic.woff2') format('woff2'),
     url('./fonts/LM-bold-italic.woff') format('woff'),
     url('./fonts/LM-bold-italic.ttf') format('truetype');
-}
+} */
 
 ul {
   @apply list-disc pl-5;
