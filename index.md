@@ -20,20 +20,30 @@ This summer I will be in Berkeley to attend the workshops at the program on cryp
 
 ### Preprints
 
+* **FICS and FACS: Fast IOPPs and Accumulation via Code-Switching**  
+Anubhav Baweja, [Pratyush Mishra](https://pratyushmishra.com/), _Tushar Mopuri_, [Matan Shtepel](https://matanshtepel.com/)  
+([ePrint](https://eprint.iacr.org/2025/737))
+
 * **Scribe: Low-memory SNARKs via Read-Write Streaming**\
-[Anubhav Baweja](https://www.linkedin.com/in/abaweja64), _Pratyush Mishra_, [Tushar Mopuri](https://in.linkedin.com/in/tushar-mopuri-41a81017b), [Karan Newatia](https://karannewatia.github.io/), Steve Wang\
+Anubhav Baweja, [Pratyush Mishra](https://pratyushmishra.com/), _Tushar Mopuri_, [Karan Newatia](https://karannewatia.github.io/), Steve Wang\
 ([ePrint](https://eprint.iacr.org/2024/1970))
 
 ### Conference publications
 
-* **DewTwo: a transparent PCS with quasi-linear prover, logarithmic verifier and 4.5KB proofs from falsifiable assumptions**\
-[Anubhav Baweja](https://www.linkedin.com/in/abaweja64), _Pratyush Mishra_, [Tushar Mopuri](https://in.linkedin.com/in/tushar-mopuri-41a81017b), [Karan Newatia](https://karannewatia.github.io/), Steve Wang\
+* **DewTwo: a transparent PCS with quasi-linear prover, logarithmic verifier and 4.5KB proofs from falsifiable assumptions**  
+[Benedikt Bünz](https://cs.nyu.edu/~bb/), _Tushar Mopuri_, [Alireza Shirzad](https://alireza-shirzad.github.io/), Sriram Sridhar\
 **CRYPTO 2025**\
-([ePrint](https://eprint.iacr.org/2024/1970))
+([ePrint](https://eprint.iacr.org/2025/129))
 
-* **Scribe: Low-memory SNARKs via Read-Write Streaming**\
-[Anubhav Baweja](https://www.linkedin.com/in/abaweja64), _Pratyush Mishra_, [Tushar Mopuri](https://in.linkedin.com/in/tushar-mopuri-41a81017b), [Karan Newatia](https://karannewatia.github.io/), Steve Wang\
-([ePrint](https://eprint.iacr.org/2024/1970))
+* **Hekaton: Horizontally-Scalable zkSNARKs via Proof Aggregation**  
+[Michael Rosenberg](https://mrosenberg.pub/), _Tushar Mopuri_, [Hossein Hafezi](https://hosseinhafezi.com/), [Ian Miers](https://www.cs.umd.edu/people/imiers), [Pratyush Mishra](https://pratyushmishra.com/)\  
+**ACM CCS 2024**\  
+([ePrint](https://eprint.iacr.org/2024/1208))
+
+* **Dew: Transparent Constant-sized zkSNARKs**  
+[Arasu Arun](https://arasua.run/), [Chaya Ganesh](https://www.csa.iisc.ac.in/~chaya/), Satya Lokam, _Tushar Mopuri_, Sriram Sridhar\
+**PKC 2023**\    
+([ePrint](https://eprint.iacr.org/2022/419))
 
 ## Other
 

@@ -5,9 +5,6 @@
   "repository": "",
   "author": "",
   "license": "ISC",
-  // "scripts": {
-  //   "start": "npx tailwindcss -i ./styles/main.css -o ./styles/tailwind.css --watch & bundle exec jekyll serve"
-  // },
   "scripts": {
   "build:css": "tailwindcss -i styles/main.css -o styles/tailwind.css --minify",
   "build": "npm run build:css && bundle exec jekyll build"
