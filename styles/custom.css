@@ -29,9 +29,10 @@
   /* 4. 45% column capped at A4 */
   @media (min-width: 1024px) {
     .prose {
-      width: 60% !important;         /* or bump to 70%, 75%… */
-      max-width: none !important;    /* remove the 65ch cap */
-      margin: 0 auto;
+      width: 100% !important;         /* or bump to 70%, 75%… */
+      max-width: 1500px !important;    /* remove the 65ch cap */
+      margin-left: auto;
+      margin-right: auto;
     }
   }
   
