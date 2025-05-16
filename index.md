@@ -4,7 +4,7 @@ title: Tushar Mopuri
 permalink: /
 ---
 
-## Introduction (Poop!!!!)
+## Introduction
 
 I am a second-year PhD student at the University of Pennsylvania, where I am excellently advised by Pratyush Mishra. 
 
@@ -36,13 +36,13 @@ Anubhav Baweja, [Pratyush Mishra](https://pratyushmishra.com/), _Tushar Mopuri
 ([ePrint](https://eprint.iacr.org/2025/129))
 
 * **<span class="textsc">Hekaton</span>: Horizontally-Scalable zkSNARKs via Proof Aggregation**  
-[Michael Rosenberg](https://mrosenberg.pub/), _Tushar Mopuri_, [Hossein Hafezi](https://hosseinhafezi.com/), [Ian Miers](https://www.cs.umd.edu/people/imiers), [Pratyush Mishra](https://pratyushmishra.com/)\  
-**ACM CCS 2024**\  
+[Michael Rosenberg](https://mrosenberg.pub/), _Tushar Mopuri_, [Hossein Hafezi](https://hosseinhafezi.com/), [Ian Miers](https://www.cs.umd.edu/people/imiers), [Pratyush Mishra](https://pratyushmishra.com/)\
+**ACM CCS 2024**\
 ([ePrint](https://eprint.iacr.org/2024/1208))
 
 * **Dew: Transparent Constant-sized zkSNARKs**  
 [Arasu Arun](https://arasua.run/), [Chaya Ganesh](https://www.csa.iisc.ac.in/~chaya/), Satya Lokam, _Tushar Mopuri_, Sriram Sridhar\
-**PKC 2023**\    
+**PKC 2023**\
 ([ePrint](https://eprint.iacr.org/2022/419))
 
 ## Other
