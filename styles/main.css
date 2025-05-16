@@ -132,30 +132,3 @@ p {
   @apply my-2;
   font-size: 13pt;
 }
-
-/* 1. PDF-style paragraphs: no vertical gap + indent on every new paragraph */
-.prose p {
-  margin: 0 0 0.5em;        /* remove top margin, keep small bottom gap */ 
-  text-indent: 1.5em;       /* indent first line */
-}
-.prose p:first-of-type {
-  text-indent: 0;           /* no indent on very first paragraph */
-}
-
-/* 2. Centered content column: 45% of viewport, but never wider than A4 (210 mm) */
-@media (min-width: 1024px) {
-  .prose {
-    width: 45%;             /* instead of 50% */
-    max-width: 210mm;       /* cap at an A4-page width */
-    margin-left: auto;
-    margin-right: auto;
-  }
-}
-
-/* 3. A few extra typographic refinements to match your PDF */
-body {
-  font-family: 'Latin Modern', serif; /* use your PDF’s main font */ 
-  line-height: 1.5;                   /* a bit more breathing room */
-  text-align: justify;                /* full-width text blocks */
-  hyphens: auto;                      /* enable hyphenation */
-}
