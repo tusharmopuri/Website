@@ -61,9 +61,8 @@
   }
 
   .textsc {
-    font-variant-caps: small-caps;
-    font-feature-settings: "smcp" 1;
-    font-weight: bold;       /* ← add this */
+    font-variant-caps: small-caps; /* use real glyphs when available */
+    letter-spacing: 0.02em;        /* optional optical tweak */
   }
 
   .prose h2.no-number::before {
@@ -73,5 +72,7 @@
   .tight-paras p + p {
     margin-top: 0.1em;   /* only the second paragraph in that block */
   }
-  
+
+  .unnumbered::before { content:none !important; counter-increment:none; }
+
   

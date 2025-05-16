@@ -3624,6 +3624,19 @@ body {
   margin-bottom: 1em !important;
 }
 
+.font-sans.equalize {
+  font-size-adjust: 0.55;
+  /* modern browsers ➜ auto x-height match */
+}
+
+@supports not (font-size-adjust: 1) {
+  /* Safari <17 fallback */
+
+  .font-sans.equalize {
+    font-size: 0.92em;
+  }
+}
+
 @media (min-width: 768px) {
   .md\:prose-lg {
     font-size: 1.125rem;
