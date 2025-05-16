@@ -6,7 +6,7 @@ permalink: /
 
 ## Introduction
 
-I am a second-year PhD student at the University of Pennsylvania, where I am excellently advised by [Pratyush Mishra](https://pratyushmishra.com/). 
+I am a a second-year PhD student at the University of Pennsylvania, where I am excellently advised by [Pratyush Mishra](https://pratyushmishra.com/). 
 
 Before this, I was a visitor at the amazing Crypto group at Aarhus University, where I initially worked with [Claudio Orlandi](https://cs.au.dk/%7Eorlandi/) and later on also with [Peter Scholl](https://pascholl.github.io/). Even before that, I obtained a BS (Research) at the Indian Institute of Science, where I majored in mathematics and did research with [Chaya Ganesh](https://www.csa.iisc.ac.in/~chaya/).
 
