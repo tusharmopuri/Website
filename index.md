@@ -4,7 +4,7 @@ title: Tushar Mopuri
 permalink: /
 ---
 
-## Introduction (Poop!)
+## Introduction (Poop!!)
 
 I am a second-year PhD student at the University of Pennsylvania, where I am excellently advised by Pratyush Mishra. 
 
