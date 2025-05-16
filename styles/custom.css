@@ -29,7 +29,7 @@
   /* 4. 45% column capped at A4 */
   @media (min-width: 1024px) {
     .prose {
-      width: 90% !important;
+      width: 80% !important;
       /* max-width: 21000mm; */
       margin-left: auto;
       margin-right: auto;
