@@ -1,11 +1,12 @@
 /* 1. PDF-style paragraphs */
 .prose {
-    line-height: 1.275;
+    line-height: 1.25;
   }
 
 .prose p {
     margin: 0 0 0.25em;
     text-indent: 1.5em;
+    word-spacing: -0.025em !important;
   }
 
   .prose p:first-of-type {
@@ -54,7 +55,9 @@
 
   /* tighten space under #### (h4) */
   .prose h4 {
+    margin-top: 0.4em !important;
     margin-bottom: 0.00em !important;
+    margin-right: 0.35em !important;
   }
 
   .textsc {
