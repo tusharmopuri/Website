@@ -1,6 +1,6 @@
 /* 1. PDF-style paragraphs */
 .prose p {
-    margin: 0 0 0.5em;
+    margin: 0 0 0.25em;
     text-indent: 1.5em;
   }
   .prose p:first-of-type {
@@ -28,22 +28,20 @@
   /* 4. 45% column capped at A4 */
   @media (min-width: 1024px) {
     .prose {
-      width: 45% !important;
+      width: 60% !important;
       max-width: 210mm;
       margin-left: auto;
       margin-right: auto;
     }
   }
   
-  /* 1. Faint underline by default, matching text color on hover */
+  /* faint underline, then match text on hover */
 .prose a {
     text-decoration: underline;
-    /* start lighter than the text: adjust the alpha as you like */
-    text-decoration-color: rgba(31, 41, 55, 0.4);
+    text-decoration-color: rgba(31,41,55,0.2);   /* very light gray */
     transition: text-decoration-color 0.2s ease;
   }
   .prose a:hover {
-    /* on hover, match the link's own color (in your case a dark gray) */
-    text-decoration-color: currentColor;
+    text-decoration-color: currentColor;         /* same as the link’s text */
   }
   
