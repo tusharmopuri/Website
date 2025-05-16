@@ -1,19 +1,29 @@
+# .github/workflows/build-css.yml
+
 name: Build Tailwind CSS
 
-on: push
+# grant write permission so GITHUB_TOKEN can push changes
+permissions:
+  contents: write
+
+on:
+  push:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        # ensure it can use the token
+        with:
+          persist-credentials: true
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '16'
 
-      - name: Install dependencies
+      - name: Install deps
         run: npm ci
 
       - name: Build CSS

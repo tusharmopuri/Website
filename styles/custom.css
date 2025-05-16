@@ -4,7 +4,7 @@
   }
 
 .prose p {
-    margin: 0 0 0.25em;
+    margin-bottom: 0.03em !important;
     text-indent: 1.5em;
     word-spacing: -0.025em !important;
   }
@@ -40,23 +40,24 @@
       margin-right: auto;
     }
   }
-  
-  /* ultra-light underline at rest */
-.prose a {
+
+  .prose a {
+    color: #1d4ed8 !important;              /* slightly bluer */
     text-decoration: underline;
     text-decoration-color: rgba(31,41,55,0.08) !important;
     transition: text-decoration-color 0.2s ease;
   }
-  
-  /* soften hover: match text color but not 100% opaque */
   .prose a:hover {
-    text-decoration-color: rgba(31,41,55,0.7) !important;
+    text-decoration-color: rgba(31,41,55,0.5) !important;  /* darker underline */
   }
+  
+  /* ultra-light underline at rest */
+
 
   /* tighten space under #### (h4) */
   .prose h4 {
     margin-top: 1.0em !important;
-    margin-bottom: 0.00em !important;
+    margin-bottom: -0.1em !important;
     margin-right: 0.35em !important;
   }
 
@@ -68,4 +69,8 @@
 
   .prose h2.no-number::before {
     content: none !important;
+  }
+
+  .tight-paras p + p {
+    margin-top: 0.1em;   /* only the second paragraph in that block */
   }
