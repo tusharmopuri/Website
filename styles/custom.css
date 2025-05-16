@@ -12,10 +12,17 @@
     margin-bottom: 1em !important;
   }
   
-  /* 3. Wider bullets */
+  /* 2a. Make markers (bullets) use the same color as your text */
+.prose ul > li::marker {
+    /* currentColor = the li’s computed text color */
+    color: currentColor;
+  }
+  
+  /* 2b. Add a little more breathing room between each bullet */
   .prose ul > li {
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
+    /* tweak these to taste; 0.25em is roughly half the spacing between heading & first item */
+    margin-top: 0.25em;
+    margin-bottom: 0.25em;
   }
   
   /* 4. 45% column capped at A4 */
@@ -28,13 +35,15 @@
     }
   }
   
-  /* 5. Faint underline by default, dark on hover */
-  .prose a {
+  /* 1. Faint underline by default, matching text color on hover */
+.prose a {
     text-decoration: underline;
-    text-decoration-color: rgba(55,65,81,0.4);
+    /* start lighter than the text: adjust the alpha as you like */
+    text-decoration-color: rgba(31, 41, 55, 0.4);
     transition: text-decoration-color 0.2s ease;
   }
   .prose a:hover {
-    text-decoration-color: rgba(55,65,81,1);
+    /* on hover, match the link's own color (in your case a dark gray) */
+    text-decoration-color: currentColor;
   }
   
