@@ -1,3 +1,5 @@
 domain: tmopuri.com
 url: https://tmopuri.com
 baseurl: /
+include:
+  - CNAME

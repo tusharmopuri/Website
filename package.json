@@ -17,8 +17,8 @@
     "tailwindcss": "^3.3.1"
   },
   "scripts": {
-    "dev":    "bundle exec jekyll serve", 
-    "publish": "bundle exec jekyll build --config _config.yml,_config_prod.yml && git add docs && git commit -m \"Publish $(date +'%F')\" && git push"
+  "dev":    "bundle exec jekyll serve",  
+  "publish": "bundle exec jekyll build --destination docs && git add docs && git commit -m \"Publish $(date +'%Y-%m-%d %H:%M')\" && git push"
   }
 }
 
