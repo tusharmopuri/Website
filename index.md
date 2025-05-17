@@ -6,7 +6,7 @@ permalink: /
 
 ## Introduction
 
-I am a a second-year PhD student at the University of Pennsylvania, where I am excellently advised by [Pratyush Mishra](https://pratyushmishra.com/). 
+I am a second-year PhD student at the University of Pennsylvania, where I am excellently advised by [Pratyush Mishra](https://pratyushmishra.com/). 
 
 Before this, I was a visitor at the amazing Crypto group at Aarhus University, where I initially worked with [Claudio Orlandi](https://cs.au.dk/%7Eorlandi/) and later on also with [Peter Scholl](https://pascholl.github.io/). Even before that, I obtained a BS (Research) at the Indian Institute of Science, where I majored in mathematics and did research with [Chaya Ganesh](https://www.csa.iisc.ac.in/~chaya/).
 
@@ -16,7 +16,7 @@ My research interests (and experiences) lie in Cryptography, with a focus on Suc
 #### Summer 2025.
 This summer I will be in Berkeley to attend the workshops at the program on cryptography (hosted by the Simons Institute). Please feel free to email me if you are around and want to chat/ collaborate.
 
-## Publications
+## Publications {#publications}
 
 ### Preprints
 
@@ -45,7 +45,7 @@ Anubhav Baweja, [Pratyush Mishra](https://pratyushmishra.com/), _Tushar Mopuri
 **PKC 2023**\
 ([ePrint](https://eprint.iacr.org/2022/419))
 
-## Other
+## Other {#other}
 
 #### Research experiences.
 Below is a list of my other experiences doing research, and the people I have been fortunate to interact with during them.
@@ -53,8 +53,8 @@ Below is a list of my other experiences doing research, and the people I have be
 * Summer 2024 - Visited NYU, where I worked with [Benedikt Bünz](https://cs.nyu.edu/~bb/).
 * Spring 2022 - Interned at Microsoft Research India, where I worked with [Chaya Ganesh](https://www.csa.iisc.ac.in/~chaya/) and [Satya Lokam](https://www.microsoft.com/en-us/research/people/satya/).
 
-#### TAing and subreviewing.
-I was a TA for CIS 5560 (Cryptography) at Penn in Spring ’24 and Spring ’25. Also, I subreviewed for Eurocrypt 2025 and Crypto 2025.
+#### TAing and subreviewing. {#taing}
+I was a TA for CIS 5560 (Cryptography) at Penn in Spring 2024 and Spring 2025. Also, I subreviewed for Eurocrypt 2025 and Crypto 2025.
 
 
 #### Acknowledgement.

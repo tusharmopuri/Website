@@ -1,0 +1,26 @@
+/* ───── vertical-rhythm reset ────────────────────────────── */
+/* Remove default top/bottom margins the browser adds        */
+:where(h1,h2,h3,h4,h5,h6,
+       p,ul,ol,dl,blockquote,figure) {
+  margin-block: 0;
+}
+
+/* Consistent line-height (feel free to tweak the numbers)   */
+:where(p,li)     { line-height: 1.55; }   /* body copy  */
+:where(h1,h2,h3) { line-height: 1.25; }   /* headings   */
+
+
+/* ───── flow utility  ────────────────────────────────────── */
+/* Any element with class="flow" gets even gaps between      */
+/* its children. Override the size with --flow-space.        */
+.flow > * + * {
+  margin-block-start: var(--flow-space, 1rem);
+}
+
+
+/* ───── optional tight-paragraph helper for <li> … <p> … ── */
+.tight p + p { margin-block-start: 0.25rem; }
+
+
+/* ───── extra blank space at the very bottom of the page ─── */
+body { padding-block-end: 4rem; }  /* 4 rem ≈ 64 px – change to taste */
