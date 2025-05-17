@@ -6,6 +6,10 @@ module.exports = {
   darkMode: 'media',
 }
 
+module.exports = {
+  safelist: ["text-xl"],   // keeps it even if not found in source
+};
+
 // tailwind.config.js
 module.exports = {
   content: [

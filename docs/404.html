@@ -18,6 +18,35 @@
 
     <link rel="stylesheet" href="/styles/tailwind.css">
     <link rel="stylesheet" href="/styles/custom.css">
+    <link rel="stylesheet" href="/styles/rhythm.css">
+    <style>
+      /* 1️⃣ smaller gap when an h4 follows an h2 (Other → Research experiences) */
+      .prose h2 + h4 { margin-top: 0.1em !important; }
+      
+      .prose ul li > :is(h3,h4,h5,h6):first-child,
+      .prose ol li > :is(h3,h4,h5,h6):first-child {
+        margin-top: 0 !important;
+      }
+
+      /* (B) – Give the bullets *under Publications* a little extra breathing-room
+              0.5 rem between items, but NOT in later sections            */
+      #publications + ul > li + li {         /* every li after the first   */
+        margin-top: 0.5rem !important;
+      }
+      /*  tighten every stand-alone paragraph  */
+      .prose p { line-height: 1.4 !important; }
+
+      /*  immediately restore wide spacing to
+          anything that lives inside a list item  */
+      .prose li,
+      .prose li p { line-height: 1.55 !important; }
+      .lead p { line-height: 1.45 !important; }
+      #taing {
+        margin-top: 0 !important;        /* no blank line above */
+        margin-bottom: 0.25rem !important;/* tiny cushion below (adjust if you like) */
+      }
+      html { font-size: 19px; } 
+      </style>
 
   </head>
   <body>

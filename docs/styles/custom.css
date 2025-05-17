@@ -73,6 +73,11 @@
     margin-top: 0.1em;   /* only the second paragraph in that block */
   }
 
-  .unnumbered::before { content:none !important; counter-increment:none; }
+  /* tighter top margin on every h3 that follows an h2 inside .prose */
+  .prose h2 + h4 { margin-top: -7.0rem; }
+
+  .prose li > h4:first-child { margin-top: 0; }
+
+  body { padding-block-end: 4rem; }
 
   

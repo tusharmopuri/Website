@@ -18,6 +18,35 @@
 
     <link rel="stylesheet" href="/styles/tailwind.css">
     <link rel="stylesheet" href="/styles/custom.css">
+    <link rel="stylesheet" href="/styles/rhythm.css">
+    <style>
+      /* 1️⃣ smaller gap when an h4 follows an h2 (Other → Research experiences) */
+      .prose h2 + h4 { margin-top: 0.1em !important; }
+      
+      .prose ul li > :is(h3,h4,h5,h6):first-child,
+      .prose ol li > :is(h3,h4,h5,h6):first-child {
+        margin-top: 0 !important;
+      }
+
+      /* (B) – Give the bullets *under Publications* a little extra breathing-room
+              0.5 rem between items, but NOT in later sections            */
+      #publications + ul > li + li {         /* every li after the first   */
+        margin-top: 0.5rem !important;
+      }
+      /*  tighten every stand-alone paragraph  */
+      .prose p { line-height: 1.4 !important; }
+
+      /*  immediately restore wide spacing to
+          anything that lives inside a list item  */
+      .prose li,
+      .prose li p { line-height: 1.55 !important; }
+      .lead p { line-height: 1.45 !important; }
+      #taing {
+        margin-top: 0 !important;        /* no blank line above */
+        margin-bottom: 0.25rem !important;/* tiny cushion below (adjust if you like) */
+      }
+      html { font-size: 19px; } 
+      </style>
 
   </head>
   <body>
@@ -30,11 +59,11 @@
 <img class="p-3" src="https://splab.cis.upenn.edu/img/people/TusharM.jpg" alt="drawing" width="233"/>
 </div>
 
-<div class="flex-grow ml-2 h-full text-center">
-<p class="font-serif my-0 text-2xl font-medium">Tushar Mopuri</p>
-<p class="my-0 font-mono text-lg"><a href="mailto:tmopuri@seas.upenn.edu">tmopuri@seas.upenn.edu</a></p>
-<p class="font-serif my-0 text-lg">Computer and Information Science</p>
-<p class="font-serif my-0 text-lg">University of Pennsylvania</p>
+<div class="lead flex-grow ml-2 h-full text-center">
+<p style="font-size:1.5rem" class="font-serif my-0 font-medium">Tushar Mopuri</p>
+<p style="font-size:1.0rem" class="my-0 font-mono"><a href="mailto:tmopuri@seas.upenn.edu">tmopuri@seas.upenn.edu</a></p>
+<p style="font-size:1.0rem" class="font-serif my-0">Computer and Information Science</p>
+<p style="font-size:1.0rem" class="font-serif my-0">University of Pennsylvania</p>
 </div>
 
 </div>
@@ -102,8 +131,8 @@ Anubhav Baweja, <a href="https://pratyushmishra.com/">Pratyush Mishra</a>, <em
   <li>Spring 2022 - Interned at Microsoft Research India, where I worked with <a href="https://www.csa.iisc.ac.in/~chaya/">Chaya Ganesh</a> and <a href="https://www.microsoft.com/en-us/research/people/satya/">Satya Lokam</a>.</li>
 </ul>
 
-<h4 id="taing-and-subreviewing">TAing and subreviewing.</h4>
-<p>I was a TA for CIS 5560 (Cryptography) at Penn in Spring ’24 and Spring ’25. Also, I subreviewed for Eurocrypt 2025 and Crypto 2025.</p>
+<h4 id="taing">TAing and subreviewing.</h4>
+<p>I was a TA for CIS 5560 (Cryptography) at Penn in Spring 2024 and Spring 2025. Also, I subreviewed for Eurocrypt 2025 and Crypto 2025.</p>
 
 <h4 id="acknowledgement">Acknowledgement.</h4>
 <p>This website would not have been possible without the help of <a href="https://paulbiberstein.me/">Paul Biberstein</a>.</p>
