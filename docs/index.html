@@ -43,8 +43,14 @@
       .lead p { line-height: 1.45 !important; }
       #taing {
         margin-top: 0 !important;        /* no blank line above */
-        margin-bottom: 0.25rem !important;/* tiny cushion below (adjust if you like) */
+        margin-bottom: 0rem !important;/* tiny cushion below (adjust if you like) */
       }
+      @media (max-width: 639px) {
+      html { font-size: 15px; }   /* tweak to 14px if you want even smaller */
+      }
+      /* ②   default for tablets (≥ 640 px)  */
+      html { font-size: 19px; }     /* leave as-is, matches what you had before */
+      
       @media (min-width: 1024px) {
         html { font-size: 19px; }   /* adjust this number if you like */
       }
