@@ -3,3 +3,6 @@ url: https://tmopuri.com
 baseurl: /
 include:
   - CNAME
+exclude:
+  - gems
+  - .bundle

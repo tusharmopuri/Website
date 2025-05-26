@@ -7,8 +7,7 @@ permalink: /
 ## Introduction
 
 I am a second-year PhD student at the University of Pennsylvania, where I am excellently advised by [Pratyush Mishra](https://pratyushmishra.com/). 
-
-Before this, I was a visitor at the amazing Crypto group at Aarhus University, where I initially worked with [Claudio Orlandi](https://cs.au.dk/%7Eorlandi/) and later on also with [Peter Scholl](https://pascholl.github.io/). Even before that, I obtained a BS (Research) at the Indian Institute of Science, where I majored in mathematics and did research with [Chaya Ganesh](https://www.csa.iisc.ac.in/~chaya/).
+Before this, I obtained a BS (Research) at the Indian Institute of Science, where I majored in mathematics and did research with [Chaya Ganesh](https://www.csa.iisc.ac.in/~chaya/).
 
 #### Research interests.
 My research interests (and experiences) lie in Cryptography, with a focus on Succinct Non-interactive ARguments of Knowledge (SNARKs). I would, however, be very excited about an opportunity to branch out.
@@ -51,7 +50,8 @@ Anubhav Baweja, [Pratyush Mishra](https://pratyushmishra.com/), _Tushar Mopuri
 Below is a list of my other experiences doing research, and the people I have been fortunate to interact with during them.
 
 * Summer 2024 - Visited NYU, where I worked with [Benedikt Bünz](https://cs.nyu.edu/~bb/).
-* Spring 2022 - Interned at Microsoft Research India, where I worked with [Chaya Ganesh](https://www.csa.iisc.ac.in/~chaya/) and [Satya Lokam](https://www.microsoft.com/en-us/research/people/satya/).
+* Fall 2022 - Visited the amazing [Crypto group](https://users-cs.au.dk/orlandi/cryptogroup/ç) at Aarhus University, where I initially worked with [Claudio Orlandi](https://cs.au.dk/%7Eorlandi/), and later on also with [Peter Scholl](https://pascholl.github.io/) and [Lawrence Roy](https://ldr709.gitlab.io/).
+* Spring 2022 - Interned at Microsoft Research (India), where I worked with [Chaya Ganesh](https://www.csa.iisc.ac.in/~chaya/) and [Satya Lokam](https://www.microsoft.com/en-us/research/people/satya/).
 
 #### TAing and subreviewing. {#taing}
 I was a TA for CIS 5560 (Cryptography) at Penn in Spring 2024 and Spring 2025. Also, I subreviewed for Eurocrypt 2025 and Crypto 2025.
