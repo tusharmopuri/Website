@@ -13,7 +13,7 @@ Before this, I obtained a BS (Research) at the Indian Institute of Science, wher
 My research interests (and experiences) lie in Cryptography, with a focus on Succinct Non-interactive ARguments of Knowledge (SNARKs). I would, however, be very excited about an opportunity to branch out.
 
 #### Summer 2025.
-This summer I will be in Berkeley to attend the workshops at the program on cryptography (hosted by the Simons Institute). Please feel free to email me if you are around and want to chat/ collaborate.
+This summer I will be in Berkeley to attend the cryptography workshops hosted by the Simons Institute. Please feel free to email me if you are around and want to chat/ collaborate.
 
 ## Publications {#publications}
 
