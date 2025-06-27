@@ -58,5 +58,5 @@ I was a TA for CIS 5560 (Cryptography) at Penn in Spring 2024 and Spring 2025. A
 
 
 #### Acknowledgement.
-This website would not have been possible without the help of [Paul Biberstein](https://paulbiberstein.me/).
+This website would not have been possible without the help of [Paul Biberstein](https://paulbiberstein.me/). The photograph of me would not have been possible without the help of [Jess Woods](https://jkwoods.github.io/).
 
