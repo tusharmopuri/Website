@@ -17,7 +17,7 @@ My research interests (and experiences) lie in Cryptography, with a focus on Suc
 ### Preprints
 
 * **FICS and FACS: Fast IOPPs and Accumulation via Code-Switching**  
-[Anubhav Baweja](https://randomshuffle.github.io/), [Pratyush Mishra](https://pratyushmishra.com/), _Tushar Mopuri_, [Matan Shtepel](https://matanshtepel.com/)\  
+[Anubhav Baweja](https://randomshuffle.github.io/), [Pratyush Mishra](https://pratyushmishra.com/), _Tushar Mopuri_, [Matan Shtepel](https://matanshtepel.com/)\
 ([ePrint](https://eprint.iacr.org/2025/737))
 
 ### Conference publications
