@@ -6,3 +6,4 @@ include:
 exclude:
   - gems
   - .bundle
+  - node_modules
