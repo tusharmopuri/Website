@@ -16,41 +16,35 @@ My research interests (and experiences) lie in Cryptography, with a focus on Suc
 
 ### Preprints
 
-* **FICS and FACS: Fast IOPPs and Accumulation via Code-Switching**  
+* **FICS and FACS: Fast IOPPs and Accumulation via Code-Switching**\
 [Anubhav Baweja](https://randomshuffle.github.io/), [Pratyush Mishra](https://pratyushmishra.com/), _Tushar Mopuri_, [Matan Shtepel](https://matanshtepel.com/)\
-([ePrint](https://eprint.iacr.org/2025/737))
+([<span style="color: #0284c7">ePrint</span>](https://eprint.iacr.org/2025/737))
 
 ### Conference publications
 
 * **Query-Optimal IOPPs for Linear-Time Encodable Codes**\
 [Anubhav Baweja](https://randomshuffle.github.io/), [Pratyush Mishra](https://pratyushmishra.com/), _Tushar Mopuri_, [Matan Shtepel](https://matanshtepel.com/)\
-**EUROCRYPT 2026**\
-([ePrint](https://eprint.iacr.org/2025/1588))
+<span class="inline-block bg-gray-100 rounded px-2 py-0.5 text-sm font-bold text-gray-700">EUROCRYPT 2026</span> ([<span style="color: #0284c7">ePrint</span>](https://eprint.iacr.org/2025/1588))
 
 * **<span class="textsc">Scribe</span>: Low-memory SNARKs via Read-Write Streaming**\
 [Anubhav Baweja](https://randomshuffle.github.io/), [Pratyush Mishra](https://pratyushmishra.com/), _Tushar Mopuri_, [Karan Newatia](https://karannewatia.github.io/), Steve Wang\
-**USENIX Security 2026**\
-([ePrint](https://eprint.iacr.org/2024/1970))
+<span class="inline-block bg-gray-100 rounded px-2 py-0.5 text-sm font-bold text-gray-700">USENIX Security 2026</span> ([<span style="color: #0284c7">ePrint</span>](https://eprint.iacr.org/2024/1970))
 
 * **Time-Space Trade-Offs for Sumcheck**\
 [Anubhav Baweja](https://randomshuffle.github.io/), [Alessandro Chiese](https://ic-people.epfl.ch/~achiesa/), [Elisabetta Fidele](https://elisabettafedele.github.io/), [Giacomo Fenzi](https://gfenzi.io/), [Pratyush Mishra](https://pratyushmishra.com/), _Tushar Mopuri_, [Andrew Zitek-Estrada](https://andrewzitek.xyz/)\
-**TCC 2025**\
-([ePrint](https://eprint.iacr.org/2025/1588))
+<span class="inline-block bg-gray-100 rounded px-2 py-0.5 text-sm font-bold text-gray-700">TCC 2025</span> ([<span style="color: #0284c7">ePrint</span>](https://eprint.iacr.org/2025/1588))
 
-* **DewTwo: a transparent PCS with quasi-linear prover, logarithmic verifier and 4.5KB proofs from falsifiable assumptions**  
+* **DewTwo: a transparent PCS with quasi-linear prover, logarithmic verifier and 4.5KB proofs from falsifiable assumptions**\
 [Benedikt Bünz](https://cs.nyu.edu/~bb/), _Tushar Mopuri_, [Alireza Shirzad](https://alireza-shirzad.github.io/), Sriram Sridhar\
-**CRYPTO 2025**\
-([ePrint](https://eprint.iacr.org/2025/129))
+<span class="inline-block bg-gray-100 rounded px-2 py-0.5 text-sm font-bold text-gray-700">CRYPTO 2025</span> ([<span style="color: #0284c7">ePrint</span>](https://eprint.iacr.org/2025/129))
 
-* **<span class="textsc">Hekaton</span>: Horizontally-Scalable zkSNARKs via Proof Aggregation**  
+* **<span class="textsc">Hekaton</span>: Horizontally-Scalable zkSNARKs via Proof Aggregation**\
 [Michael Rosenberg](https://mrosenberg.pub/), _Tushar Mopuri_, [Hossein Hafezi](https://hosseinhafezi.com/), [Ian Miers](https://www.cs.umd.edu/people/imiers), [Pratyush Mishra](https://pratyushmishra.com/)\
-**ACM CCS 2024**\
-([ePrint](https://eprint.iacr.org/2024/1208))
+<span class="inline-block bg-gray-100 rounded px-2 py-0.5 text-sm font-bold text-gray-700">ACM CCS 2024</span> ([<span style="color: #0284c7">ePrint</span>](https://eprint.iacr.org/2024/1208))
 
-* **Dew: Transparent Constant-sized zkSNARKs**  
+* **Dew: Transparent Constant-sized zkSNARKs**\
 [Arasu Arun](https://arasua.run/), [Chaya Ganesh](https://www.csa.iisc.ac.in/~chaya/), [Satya Lokam](https://www.microsoft.com/en-us/research/people/satya/), _Tushar Mopuri_, Sriram Sridhar\
-**PKC 2023**\
-([ePrint](https://eprint.iacr.org/2022/419))
+<span class="inline-block bg-gray-100 rounded px-2 py-0.5 text-sm font-bold text-gray-700">PKC 2023</span> ([<span style="color: #0284c7">ePrint</span>](https://eprint.iacr.org/2022/419))
 
 ## Other {#other}
 
