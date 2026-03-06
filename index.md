@@ -59,7 +59,7 @@ Below is a list of my other experiences doing research, and the people I have be
 
 * Summer 2025 - Visited Berkeley to attend the cryptography workshops hosted by the Simons Institute.
 * Summer 2024 - Visited NYU, where I worked with [Benedikt Bünz](https://cs.nyu.edu/~bb/).
-* Fall 2022 - Visited the amazing [Crypto group](https://users-cs.au.dk/orlandi/cryptogroup/ç) at Aarhus University, where I initially worked with [Claudio Orlandi](https://cs.au.dk/%7Eorlandi/), and later on also with [Peter Scholl](https://pascholl.github.io/) and [Lawrence Roy](https://ldr709.gitlab.io/).
+* Fall 2022 - Visited the [Crypto group](https://users-cs.au.dk/orlandi/cryptogroup/ç) at Aarhus University, where I initially worked with [Claudio Orlandi](https://cs.au.dk/%7Eorlandi/), and later on also with [Peter Scholl](https://pascholl.github.io/) and [Lawrence Roy](https://ldr709.gitlab.io/).
 * Spring 2022 - Interned at Microsoft Research (India), where I worked with [Chaya Ganesh](https://www.csa.iisc.ac.in/~chaya/) and [Satya Lokam](https://www.microsoft.com/en-us/research/people/satya/).
 
 #### TAing and subreviewing. {#taing}
