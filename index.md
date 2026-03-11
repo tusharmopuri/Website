@@ -14,6 +14,8 @@ My research interests (and experiences) lie in Cryptography, with a focus on Suc
 
 ## Publications {#publications}
 
+<p style="text-indent: 0 !important; margin-top: 0 !important;">Authors are listed in alphabetical order, unless otherwise noted.</p>
+
 ### Preprints
 
 * **FICS and FACS: Fast IOPPs and Accumulation via Code-Switching**\
@@ -43,7 +45,7 @@ My research interests (and experiences) lie in Cryptography, with a focus on Suc
 ([<span style="color: #0284c7">ePrint</span>](https://eprint.iacr.org/2025/129))
 
 * **<span class="textsc">Hekaton</span>: Horizontally-Scalable zkSNARKs via Proof Aggregation**\
-[Michael Rosenberg](https://mrosenberg.pub/), _Tushar Mopuri_, [Hossein Hafezi](https://hosseinhafezi.com/), [Ian Miers](https://www.cs.umd.edu/people/imiers), [Pratyush Mishra](https://pratyushmishra.com/)\
+[Michael Rosenberg](https://mrosenberg.pub/), _Tushar Mopuri_, [Hossein Hafezi](https://hosseinhafezi.com/), [Ian Miers](https://www.cs.umd.edu/people/imiers), [Pratyush Mishra](https://pratyushmishra.com/) (not alphabetical)\
 <span class="inline-block bg-gray-100 rounded px-2 py-0.5 text-sm font-bold text-gray-700">ACM CCS 2024</span>\
 ([<span style="color: #0284c7">ePrint</span>](https://eprint.iacr.org/2024/1208))
 
