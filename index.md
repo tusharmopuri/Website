@@ -14,7 +14,7 @@ My research interests (and experiences) lie in Cryptography, with a focus on Suc
 
 ## Publications {#publications}
 
-<p style="text-indent: 0 !important; margin-top: 0 !important;">Authors are listed in alphabetical order, unless otherwise noted.</p>
+<p style="text-indent: 0 !important; margin-top: 0 !important;">Authors are listed in alphabetical order (by last name), unless otherwise noted.</p>
 
 ### Preprints
 
