@@ -166,17 +166,6 @@ body {
   list-style-type: none; /* remove its own bullet if you prefer */
 }
 
-.prose a {
-  text-decoration: underline;
-  /* a light gray—adjust as you like */
-  text-decoration-color: rgba(55, 65, 81, 0.4) !important;
-  transition: text-decoration-color 0.2s ease;
-}
-.prose a:hover {
-  /* full-strength to match the text */
-  text-decoration-color: rgba(55, 65, 81, 1) !important;
-}
-
 @media (min-width: 1024px) {
   .prose {
     width: 45% !important;      /* override lg:w-1/2 */
