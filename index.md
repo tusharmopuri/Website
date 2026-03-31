@@ -20,23 +20,24 @@ My research interests (and experiences) lie in Cryptography, with a focus on Suc
 
 * **FICS and FACS: Fast IOPPs and Accumulation via Code-Switching**\
 [Anubhav Baweja](https://randomshuffle.github.io/), [Pratyush Mishra](https://pratyushmishra.com/), Tushar Mopuri, [Matan Shtepel](https://matanshtepel.com/)\
+<span class="inline-block bg-yellow-50 rounded px-2 py-0.5 text-sm font-bold text-gray-700 workshop-accent">ZKProof 8 (merged)</span>\
 ([<span style="color: #0284c7">ePrint</span>](https://eprint.iacr.org/2025/737))
 
 ### Conference publications
 
 * **Query-Optimal IOPPs for Linear-Time Encodable Codes**\
 [Anubhav Baweja](https://randomshuffle.github.io/), [Pratyush Mishra](https://pratyushmishra.com/), Tushar Mopuri, [Matan Shtepel](https://matanshtepel.com/)\
-<span class="inline-block bg-gray-100 rounded px-2 py-0.5 text-sm font-bold text-gray-700 venue-accent">EUROCRYPT 2026</span><span class="inline-block bg-yellow-50 rounded px-2 py-0.5 text-sm font-bold text-gray-700 workshop-accent">ZKProof 8</span>\
+<span class="inline-block bg-gray-100 rounded px-2 py-0.5 text-sm font-bold text-gray-700 venue-accent">EUROCRYPT 2026</span><span class="inline-block bg-yellow-50 rounded px-2 py-0.5 text-sm font-bold text-gray-700 workshop-accent">ZKProof 8 (merged)</span>\
 ([<span style="color: #0284c7">ePrint</span>](https://eprint.iacr.org/2025/1588))
 
 * **<span class="textsc">Scribe</span>: Low-memory SNARKs via Read-Write Streaming**\
 [Anubhav Baweja](https://randomshuffle.github.io/), [Pratyush Mishra](https://pratyushmishra.com/), Tushar Mopuri, [Karan Newatia](https://karannewatia.github.io/), Steve Wang\
-<span class="inline-block bg-gray-100 rounded px-2 py-0.5 text-sm font-bold text-gray-700 venue-accent">USENIX Security 2026</span>\
+<span class="inline-block bg-gray-100 rounded px-2 py-0.5 text-sm font-bold text-gray-700 venue-accent">USENIX Security 2026</span><span class="inline-block bg-yellow-50 rounded px-2 py-0.5 text-sm font-bold text-gray-700 workshop-accent">ZKProof 8</span>\
 ([<span style="color: #0284c7">ePrint</span>](https://eprint.iacr.org/2024/1970))
 
 * **Time-Space Trade-Offs for Sumcheck**\
 [Anubhav Baweja](https://randomshuffle.github.io/), [Alessandro Chiese](https://ic-people.epfl.ch/~achiesa/), [Elisabetta Fidele](https://elisabettafedele.github.io/), [Giacomo Fenzi](https://gfenzi.io/), [Pratyush Mishra](https://pratyushmishra.com/), Tushar Mopuri, [Andrew Zitek-Estrada](https://andrewzitek.xyz/)\
-<span class="inline-block bg-gray-100 rounded px-2 py-0.5 text-sm font-bold text-gray-700 venue-accent">TCC 2025</span>\
+<span class="inline-block bg-gray-100 rounded px-2 py-0.5 text-sm font-bold text-gray-700 venue-accent">TCC 2025</span><span class="inline-block bg-yellow-50 rounded px-2 py-0.5 text-sm font-bold text-gray-700 workshop-accent">ZKProof 8</span><span class="inline-block bg-yellow-50 rounded px-2 py-0.5 text-sm font-bold text-gray-700 workshop-accent">zkSummit 14</span>\
 ([<span style="color: #0284c7">ePrint</span>](https://eprint.iacr.org/2025/1588))
 
 * **DewTwo: a transparent PCS with quasi-linear prover, logarithmic verifier and 4.5KB proofs from falsifiable assumptions**\
@@ -46,7 +47,7 @@ My research interests (and experiences) lie in Cryptography, with a focus on Suc
 
 * **<span class="textsc">Hekaton</span>: Horizontally-Scalable zkSNARKs via Proof Aggregation**\
 [Michael Rosenberg](https://mrosenberg.pub/), Tushar Mopuri, [Hossein Hafezi](https://hosseinhafezi.com/), [Ian Miers](https://www.cs.umd.edu/people/imiers), [Pratyush Mishra](https://pratyushmishra.com/) (not alphabetical)\
-<span class="inline-block bg-gray-100 rounded px-2 py-0.5 text-sm font-bold text-gray-700 venue-accent">ACM CCS 2024</span>\
+<span class="inline-block bg-gray-100 rounded px-2 py-0.5 text-sm font-bold text-gray-700 venue-accent">ACM CCS 2024</span><span class="inline-block bg-yellow-50 rounded px-2 py-0.5 text-sm font-bold text-gray-700 workshop-accent">zkSummit 11</span>\
 ([<span style="color: #0284c7">ePrint</span>](https://eprint.iacr.org/2024/1208))
 
 * **Dew: Transparent Constant-sized zkSNARKs**\
