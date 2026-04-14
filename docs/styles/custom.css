@@ -28,7 +28,7 @@
   .prose ul > li {
     /* tweak these to taste; 0.25em is roughly half the spacing between heading & first item */
     margin-top: 0.5em;
-    margin-bottom: 0.25em;
+    margin-bottom: 0.75em;
   }
   
   /* 4. 45% column capped at A4 */
@@ -52,6 +52,23 @@
     text-decoration: underline !important;            /* add underline on hover or keyboard focus */
     text-decoration-color: rgba(119, 109, 92, 0.8) !important; /* slightly darker on hover/focus */
   }
+
+    .prose a.paper-title-link,
+    .prose a.paper-title-link:visited {
+      color: inherit !important;
+      text-decoration: none !important;
+      font: inherit;
+      font-size: 1.05em;
+      cursor: pointer;
+    }
+
+    .prose a.paper-title-link:hover,
+    .prose a.paper-title-link:focus {
+      color: inherit !important;
+      text-decoration: underline !important;
+      text-decoration-color: currentColor !important;
+      cursor: pointer;
+    }
 
 
   /* tighten space under #### (h4) */
@@ -82,52 +99,33 @@
   body { padding-block-end: 4rem; }
 
   .venue-accent {
-  font-weight: 600;
+    font-family: "CMU Sans Serif", "Computer Modern Sans", "Latin Modern Sans", "Nimbus Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 450;
     font-size: 0.95em;
-    color: #0366d6; /* stronger blue to make venue text stand out */
-  background-color: #f8fafc;
-  border-radius: 0.375rem;
-  padding: 0.125rem 0.5rem;
-  display: inline-flex;
-  align-items: center;
-}
-.venue-accent::before {
-  content: "";
-  width: 4px;
-  height: 1.05em;
-  background: #0284c7;   /* matching blue accent used elsewhere */
-  margin-right: 0.5rem;
-  border-radius: 2px;
-}
+    color: inherit;
+    font-variant-caps: normal;
+    letter-spacing: 0.008em;
+    background: none;
+    padding: 0;
+    border-radius: 0;
+    display: inline;
+  }
 
-/* Workshop tag: yellow accent bar to pair with venue badges */
-.workshop-accent {
-  font-weight: 600; /* restore stronger emphasis */
-  font-size: 0.95em;
-  color: #92400e; /* original warm text color */
-  background-color: #fffbeb;
-  border-radius: 0.375rem;
-  padding: 0.125rem 0.5rem;
-  display: inline-flex;
-  align-items: center;
-}
-.workshop-accent::before {
-  content: "";
-  width: 4px;
-  height: 1.05em;
-  background: #f59e0b; /* warm yellow accent */
-  margin-right: 0.5rem;
-  border-radius: 2px;
-}
+  .workshop-accent {
+    font-family: "CMU Sans Serif", "Computer Modern Sans", "Latin Modern Sans", "Nimbus Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    font-size: 0.95em;
+    color: inherit;
+    letter-spacing: 0.008em;
+    background: none;
+    padding: 0;
+    border-radius: 0;
+    display: inline;
+  }
 
-/* Only add left gap when a workshop follows a venue badge */
-.venue-accent + .workshop-accent {
-  margin-left: 0.18rem;
-}
-
-/* Only add left gap when a workshop follows a venue badge */
-.workshop-accent + .workshop-accent {
-  margin-left: 0.18rem;
-}
+  .venue-accent + .workshop-accent::before,
+  .workshop-accent + .workshop-accent::before {
+    content: ", ";
+  }
 
   
