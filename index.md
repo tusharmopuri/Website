@@ -18,42 +18,35 @@ My research interests (and experiences) lie in Cryptography, with a focus on Suc
 
 ### Preprints
 
-* **FICS and FACS: Fast IOPPs and Accumulation via Code-Switching**\
+* <a class="paper-title-link" href="https://eprint.iacr.org/2025/737"><strong>FICS and FACS: Fast IOPPs and Accumulation via Code-Switching</strong></a>\
 [Anubhav Baweja](https://randomshuffle.github.io/), [Pratyush Mishra](https://pratyushmishra.com/), Tushar Mopuri, [Matan Shtepel](https://matanshtepel.com/)\
-<span class="inline-block bg-yellow-50 rounded px-2 py-0.5 text-sm font-bold text-gray-700 workshop-accent">ZKProof 8 (merged)</span>\
-([<span style="color: #0284c7">ePrint</span>](https://eprint.iacr.org/2025/737))
+<span class="workshop-accent">ZKProof 8</span>
 
 ### Conference publications
 
-* **Query-Optimal IOPPs for Linear-Time Encodable Codes**\
+* <a class="paper-title-link" href="https://eprint.iacr.org/2025/1588"><strong>Query-Optimal IOPPs for Linear-Time Encodable Codes</strong></a>\
 [Anubhav Baweja](https://randomshuffle.github.io/), [Pratyush Mishra](https://pratyushmishra.com/), Tushar Mopuri, [Matan Shtepel](https://matanshtepel.com/)\
-<span class="inline-block bg-gray-100 rounded px-2 py-0.5 text-sm font-bold text-gray-700 venue-accent">EUROCRYPT 2026</span><span class="inline-block bg-yellow-50 rounded px-2 py-0.5 text-sm font-bold text-gray-700 workshop-accent">ZKProof 8 (merged)</span>\
-([<span style="color: #0284c7">ePrint</span>](https://eprint.iacr.org/2025/1588))
+<span class="venue-accent">EUROCRYPT 2026</span><span class="workshop-accent">ZKProof 8</span>
 
-* **<span class="textsc">Scribe</span>: Low-memory SNARKs via Read-Write Streaming**\
+* <a class="paper-title-link" href="https://eprint.iacr.org/2024/1970"><strong><span class="textsc">Scribe</span>: Low-memory SNARKs via Read-Write Streaming</strong></a>\
 [Anubhav Baweja](https://randomshuffle.github.io/), [Pratyush Mishra](https://pratyushmishra.com/), Tushar Mopuri, [Karan Newatia](https://karannewatia.github.io/), Steve Wang\
-<span class="inline-block bg-gray-100 rounded px-2 py-0.5 text-sm font-bold text-gray-700 venue-accent">USENIX Security 2026</span><span class="inline-block bg-yellow-50 rounded px-2 py-0.5 text-sm font-bold text-gray-700 workshop-accent">ZKProof 8</span><span class="inline-block bg-yellow-50 rounded px-2 py-0.5 text-sm font-bold text-gray-700 workshop-accent">zkSummit 11</span>\
-([<span style="color: #0284c7">ePrint</span>](https://eprint.iacr.org/2024/1970))
+<span class="venue-accent">USENIX Security 2026</span><span class="workshop-accent">ZKProof 8</span><span class="workshop-accent">zkSummit 11</span>
 
-* **Time-Space Trade-Offs for Sumcheck**\
+* <a class="paper-title-link" href="https://eprint.iacr.org/2025/1588"><strong>Time-Space Trade-Offs for Sumcheck</strong></a>\
 [Anubhav Baweja](https://randomshuffle.github.io/), [Alessandro Chiese](https://ic-people.epfl.ch/~achiesa/), [Elisabetta Fidele](https://elisabettafedele.github.io/), [Giacomo Fenzi](https://gfenzi.io/), [Pratyush Mishra](https://pratyushmishra.com/), Tushar Mopuri, [Andrew Zitek-Estrada](https://andrewzitek.xyz/)\
-<span class="inline-block bg-gray-100 rounded px-2 py-0.5 text-sm font-bold text-gray-700 venue-accent">TCC 2025</span><span class="inline-block bg-yellow-50 rounded px-2 py-0.5 text-sm font-bold text-gray-700 workshop-accent">ZKProof 8</span><span class="inline-block bg-yellow-50 rounded px-2 py-0.5 text-sm font-bold text-gray-700 workshop-accent">zkSummit 14</span>\
-([<span style="color: #0284c7">ePrint</span>](https://eprint.iacr.org/2025/1588))
+<span class="venue-accent">TCC 2025</span><span class="workshop-accent">ZKProof 8</span><span class="workshop-accent">zkSummit 14</span>
 
-* **DewTwo: a transparent PCS with quasi-linear prover, logarithmic verifier and 4.5KB proofs from falsifiable assumptions**\
+* <a class="paper-title-link" href="https://eprint.iacr.org/2025/129"><strong>DewTwo: a transparent PCS with quasi-linear prover, logarithmic verifier and 4.5KB proofs from falsifiable assumptions</strong></a>\
 [Benedikt Bünz](https://cs.nyu.edu/~bb/), Tushar Mopuri, [Alireza Shirzad](https://alireza-shirzad.github.io/), Sriram Sridhar\
-<span class="inline-block bg-gray-100 rounded px-2 py-0.5 text-sm font-bold text-gray-700 venue-accent">CRYPTO 2025</span>\
-([<span style="color: #0284c7">ePrint</span>](https://eprint.iacr.org/2025/129))
+<span class="venue-accent">CRYPTO 2025</span>
 
-* **<span class="textsc">Hekaton</span>: Horizontally-Scalable zkSNARKs via Proof Aggregation**\
+* <a class="paper-title-link" href="https://eprint.iacr.org/2024/1208"><strong><span class="textsc">Hekaton</span>: Horizontally-Scalable zkSNARKs via Proof Aggregation</strong></a>\
 [Michael Rosenberg](https://mrosenberg.pub/), Tushar Mopuri, [Hossein Hafezi](https://hosseinhafezi.com/), [Ian Miers](https://www.cs.umd.edu/people/imiers), [Pratyush Mishra](https://pratyushmishra.com/) (not alphabetical)\
-<span class="inline-block bg-gray-100 rounded px-2 py-0.5 text-sm font-bold text-gray-700 venue-accent">ACM CCS 2024</span>\
-([<span style="color: #0284c7">ePrint</span>](https://eprint.iacr.org/2024/1208))
+<span class="venue-accent">ACM CCS 2024</span>
 
-* **Dew: Transparent Constant-sized zkSNARKs**\
+* <a class="paper-title-link" href="https://eprint.iacr.org/2022/419"><strong>Dew: Transparent Constant-sized zkSNARKs</strong></a>\
 [Arasu Arun](https://arasua.run/), [Chaya Ganesh](https://www.csa.iisc.ac.in/~chaya/), [Satya Lokam](https://www.microsoft.com/en-us/research/people/satya/), Tushar Mopuri, Sriram Sridhar\
-<span class="inline-block bg-gray-100 rounded px-2 py-0.5 text-sm font-bold text-gray-700 venue-accent">PKC 2023</span>\
-([<span style="color: #0284c7">ePrint</span>](https://eprint.iacr.org/2022/419))
+<span class="venue-accent">PKC 2023</span>
 
 ## Other {#other}
 
