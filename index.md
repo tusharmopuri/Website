@@ -20,13 +20,13 @@ My research interests (and experiences) lie in Cryptography, with a focus on Suc
 
 * <a class="paper-title-link" href="https://eprint.iacr.org/2025/737"><strong>FICS and FACS: Fast IOPPs and Accumulation via Code-Switching</strong></a>\
 [Anubhav Baweja](https://randomshuffle.github.io/), [Pratyush Mishra](https://pratyushmishra.com/), Tushar Mopuri, [Matan Shtepel](https://matanshtepel.com/)\
-<span class="workshop-accent">ZKProof 8</span>
+<span class="workshop-accent">ZKProof 8 (merged)</span>
 
 ### Conference publications
 
 * <a class="paper-title-link" href="https://eprint.iacr.org/2025/1588"><strong>Query-Optimal IOPPs for Linear-Time Encodable Codes</strong></a>\
 [Anubhav Baweja](https://randomshuffle.github.io/), [Pratyush Mishra](https://pratyushmishra.com/), Tushar Mopuri, [Matan Shtepel](https://matanshtepel.com/)\
-<span class="venue-accent">EUROCRYPT 2026</span><span class="workshop-accent">ZKProof 8</span>
+<span class="venue-accent">EUROCRYPT 2026</span><span class="workshop-accent">ZKProof 8 (merged)</span>
 
 * <a class="paper-title-link" href="https://eprint.iacr.org/2024/1970"><strong><span class="textsc">Scribe</span>: Low-memory SNARKs via Read-Write Streaming</strong></a>\
 [Anubhav Baweja](https://randomshuffle.github.io/), [Pratyush Mishra](https://pratyushmishra.com/), Tushar Mopuri, [Karan Newatia](https://karannewatia.github.io/), Steve Wang\
