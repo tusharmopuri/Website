@@ -111,6 +111,10 @@
     display: inline;
   }
 
+  .paper-award-tag {
+    color: maroon;
+  }
+
   .workshop-accent {
     font-family: "CMU Sans Serif", "Computer Modern Sans", "Latin Modern Sans", "Nimbus Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 300;
