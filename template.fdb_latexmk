@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1794433110.04425 "/Users/tmoprui/Documents/Papers/Website/template.tex" "template.pdf" "template" 1794433110.72934 0
-  "/Users/tmoprui/Documents/Papers/Website/template.tex" 1794433109.78879 7617 54d7321577cf7faaf7b0aff420f855bb ""
+["pdflatex"] 1794433285.82843 "/Users/tmoprui/Documents/Papers/Website/template.tex" "template.pdf" "template" 1794433286.40874 0
+  "/Users/tmoprui/Documents/Papers/Website/template.tex" 1794433285.59359 7606 718eab7b37e86edc81efb2aec1ad3bcb ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_ne3tkd.enc" 1679344195 2969 d0ec9694be18bdfa11e2a0f61a62c0cc ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_qn2lct.enc" 1679344195 2945 f4c9aa1a657d71d9b432a32e633f5416 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -88,9 +88,9 @@
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
   "resume.cls" 1794432172.24139 6088 430b503d863c9c05e37b31fbac2ad21a ""
-  "template.aux" 1794433110.64995 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
-  "template.out" 1794433110.46315 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "template.tex" 1794433109.78879 7617 54d7321577cf7faaf7b0aff420f855bb ""
+  "template.aux" 1794433286.33606 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
+  "template.out" 1794433286.18217 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "template.tex" 1794433285.59359 7606 718eab7b37e86edc81efb2aec1ad3bcb ""
   (generated)
   "template.aux"
   "template.log"
