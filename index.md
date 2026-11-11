@@ -39,8 +39,8 @@ My research interests (and experiences) lie in Cryptography, with a focus on Suc
 [Anubhav Baweja](https://randomshuffle.github.io/), [Pratyush Mishra](https://pratyushmishra.com/), Tushar Mopuri, [Karan Newatia](https://karannewatia.github.io/), Steve Wang\
 <span class="venue-accent">USENIX Security 2026 <span class="paper-award-tag">[Runner-Up for Distinguished Paper Award]</span></span><span class="workshop-accent">ZKProof 8</span><span class="workshop-accent">zkSummit 11</span>
 
-* <a class="paper-title-link" href="https://eprint.iacr.org/2025/1588"><strong>Time-Space Trade-Offs for Sumcheck</strong></a>\
-[Anubhav Baweja](https://randomshuffle.github.io/), [Alessandro Chiese](https://ic-people.epfl.ch/~achiesa/), [Elisabetta Fidele](https://elisabettafedele.github.io/), [Giacomo Fenzi](https://gfenzi.io/), [Pratyush Mishra](https://pratyushmishra.com/), Tushar Mopuri, [Andrew Zitek-Estrada](https://andrewzitek.xyz/)\
+* <a class="paper-title-link" href="https://eprint.iacr.org/2025/1473"><strong>Time-Space Trade-Offs for Sumcheck</strong></a>\
+[Anubhav Baweja](https://randomshuffle.github.io/), [Alessandro Chiesa](https://ic-people.epfl.ch/~achiesa/), [Elisabetta Fedele](https://elisabettafedele.github.io/), [Giacomo Fenzi](https://gfenzi.io/), [Pratyush Mishra](https://pratyushmishra.com/), Tushar Mopuri, [Andrew Zitek-Estrada](https://andrewzitek.xyz/)\
 <span class="venue-accent">TCC 2025</span><span class="workshop-accent">ZKProof 8</span><span class="workshop-accent">zkSummit 14</span>
 
 * <a class="paper-title-link" href="https://eprint.iacr.org/2025/129"><strong>DewTwo: a transparent PCS with quasi-linear prover, logarithmic verifier and 4.5KB proofs from falsifiable assumptions</strong></a>\
